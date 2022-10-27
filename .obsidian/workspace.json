@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "37130730f191239e",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e3b74e073be431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65f48b1b285ecf6b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a530e30fde81830c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d402e1ed07811f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b3d9a7e0b95db5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "243a2e6702f41c38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b81188f56e742db",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.51103591918945
+  },
+  "right": {
+    "id": "dd718648c15dd3a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e71d1072391f9b57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1f07e1c13a18b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0d969d84509faf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56d4bd9c51831665",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9276ec46fc76e91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65f48b1b285ecf6b",
+  "lastOpenFiles": [
+    "Введение в программирование/Variable.md",
+    "Введение в программирование/Value.md",
+    "Введение в программирование/Type.md",
+    "Введение в программирование/Statements.md",
+    "Введение в программирование/Procedure or Subroutine.md",
+    "Введение в программирование/Loop.md",
+    "Введение в программирование/Function.md",
+    "Введение в программирование/Expression.md",
+    "Введение в программирование/Conditional statements.md",
+    "Введение в программирование/Block of code.md"
+  ]
+}
